@@ -1,0 +1,2 @@
+# Blogger-Dev
+Manifest
