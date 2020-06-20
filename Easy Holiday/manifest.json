@@ -1,0 +1,45 @@
+{
+  "name": "Easy Holiday Lite !",
+  "short_name": "Easy Holiday Lite !",
+  "start_url": "https://easybaliholiday.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#167dca",
+  "theme_color": "#167dca",
+  "description": "Easy Holiday adalah salah satu Biro jasa Tour & Travel yang melayani perjalanan wisata di Bali, Lombok, Jawa Timur",
+  "icons": [{
+    "src": "https://1.bp.blogspot.com/-5qgHLtbPPyk/Xu2-tnXPU_I/AAAAAAAAVSE/Tqpy4Jw2MYU8LA7uycUGO4ckqOIS0Rk6wCK4BGAsYHg/s36/android-icon-36x36.png",
+    "sizes": "36x36",
+    "type": "image/png",
+    "density": "0.75"
+  }, {
+    "src": "https://1.bp.blogspot.com/-Ew9GUDZFA9I/Xu2-tyexiKI/AAAAAAAAVSI/G2Z7vF2FVh4oimEc4xwBhh6ZflJ9MAVBQCK4BGAsYHg/android-icon-48x48.png",
+    "sizes": "48x48",
+    "type": "image/png",
+    "density": "1.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-JF_C0UcwUaM/Xu2-uWItA3I/AAAAAAAAVSM/0SMjg2-_HOAHjBBmhu8jJqwZDi6yt6b3ACK4BGAsYHg/s72/android-icon-72x72.png",
+    "sizes": "72x72",
+    "type": "image/png",
+    "density": "1.5"
+  }, {
+    "src": "https://1.bp.blogspot.com/-gPJqmmVGnUM/Xu2-unkgaKI/AAAAAAAAVSQ/RHIV-NxLpB0b63Fxl4lf4byJ6sXHHd-rgCK4BGAsYHg/s96/android-icon-96x96.png",
+    "sizes": "96x96",
+    "type": "image/png",
+    "density": "2.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-hWU92TjoF9I/Xu2-u2KH3VI/AAAAAAAAVSU/ZpmEmOvYxEInerxge6C92fafNgIoNktIQCK4BGAsYHg/s144/android-icon-144x144.png",
+    "sizes": "144x144",
+    "type": "image/png",
+    "density": "3.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-TAahAZIKvkQ/Xu2-vIgaqhI/AAAAAAAAVSY/-fDU4gfvoO0CHKjk10ngUS2gQvxqZB83wCK4BGAsYHg/s192/android-icon-192x192.png",
+    "sizes": "192x192",
+    "type": "image/png",
+    "density": "4.0"
+  }, {
+    "src": "https://1.bp.blogspot.com/-SiD3HRPBtDA/Xu2ec58ivOI/AAAAAAAAVNY/itNllU0w4BUPfw33fivj5-6CNAnFtKBEQCK4BGAsYHg/s320/android-chrome-512x512.png",
+    "sizes": "512x512",
+    "type": "image/png",
+    "density": "5.0"
+  }]
+}
